@@ -1,0 +1,2180 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "Africa_001",
+          "dataSetName": "Afr-ColdAirCave.Sundqvist.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13SUSA01A",
+          "dataSetName": "SP13SUSA",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "Ant_005",
+          "dataSetName": "Ant-BerknerIsland.Mulvaney.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC02MUBI01A",
+          "dataSetName": "IC02MUBI",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "Ant_017",
+          "dataSetName": "Ant-CoastalDML.Thamban.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC11LAB401A",
+          "dataSetName": "IC11LAB4",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 3,
+      "records": [
+        {
+          "tsid": "Ant_012",
+          "dataSetName": "Ant-DomeC.Stenni.2001",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC01JO0101A",
+          "dataSetName": "IC01JO01",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 4,
+      "records": [
+        {
+          "tsid": "Ant_009",
+          "dataSetName": "Ant-DomeF1993.Uemura.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC07KADF01A",
+          "dataSetName": "IC07KADF",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC08HODF02A",
+          "dataSetName": "IC08HODF",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ant_010",
+          "dataSetName": "Ant-DomeF2001.Uemura.2008",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 5,
+      "records": [
+        {
+          "tsid": "Ant_011",
+          "dataSetName": "Ant-DSS.Moy.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC13PALD01A",
+          "dataSetName": "IC13PALD",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 6,
+      "records": [
+        {
+          "tsid": "Ant_014",
+          "dataSetName": "Ant-Ferrigno.Thomas.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC13THFE01A",
+          "dataSetName": "IC13THFE",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 7,
+      "records": [
+        {
+          "tsid": "Ant_022",
+          "dataSetName": "Ant-JamesRossIsland.Mulvaney.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC12MUJR01A",
+          "dataSetName": "IC12MUJR",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 8,
+      "records": [
+        {
+          "tsid": "Ant_033",
+          "dataSetName": "Ant-MES.Rhodes.2012",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC12RHME01A",
+          "dataSetName": "IC12RHME",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 9,
+      "records": [
+        {
+          "tsid": "Ant_023",
+          "dataSetName": "Ant-PlateauRemote.Mosley-Thompson.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00COPR01A",
+          "dataSetName": "IC00COPR",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 10,
+      "records": [
+        {
+          "tsid": "Ant_024",
+          "dataSetName": "Ant-SipleStation.Mosley-Thompson.1990",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC96MOSS01A",
+          "dataSetName": "IC96MOSS",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 11,
+      "records": [
+        {
+          "tsid": "Ant_007",
+          "dataSetName": "Ant-SiteDML05.Graf.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00OE0503A",
+          "dataSetName": "IC00OE05",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC02GR0501A",
+          "dataSetName": "IC02GR05",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC99OE0502A",
+          "dataSetName": "IC99OE05",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 12,
+      "records": [
+        {
+          "tsid": "Ant_006",
+          "dataSetName": "Ant-SiteDML07.Graf.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC02GR0701A",
+          "dataSetName": "IC02GR07",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 13,
+      "records": [
+        {
+          "tsid": "Ant_008",
+          "dataSetName": "Ant-SiteDML17.Graf.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00OE2301A",
+          "dataSetName": "IC00OE23",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC02GR1701A",
+          "dataSetName": "IC02GR17",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 14,
+      "records": [
+        {
+          "tsid": "Ant_025",
+          "dataSetName": "Ant-TALDICE.Stenni.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC11STTA01A",
+          "dataSetName": "IC11STTA",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 15,
+      "records": [
+        {
+          "tsid": "Ant_026",
+          "dataSetName": "Ant-TalosDome.Stenni.2002",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC02STTA02A",
+          "dataSetName": "IC02STTA",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 16,
+      "records": [
+        {
+          "tsid": "Ant_035",
+          "dataSetName": "Ant-TaylorDome.Steig.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00STTY01A",
+          "dataSetName": "IC00STTY",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 17,
+      "records": [
+        {
+          "tsid": "Ant_037",
+          "dataSetName": "Ant-US-ITASE-2000-1.Steig.2013",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC13ST0101A",
+          "dataSetName": "IC13ST01",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 18,
+      "records": [
+        {
+          "tsid": "Ant_050",
+          "dataSetName": "Ant-US-ITASE-2002-4.Steig.2013",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC13ST2401A",
+          "dataSetName": "IC13ST24",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 19,
+      "records": [
+        {
+          "tsid": "Ant_027",
+          "dataSetName": "Ant-VLG.Bertler.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC11BEVL01A",
+          "dataSetName": "IC11BEVL",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 20,
+      "records": [
+        {
+          "tsid": "Ant_030",
+          "dataSetName": "Ant-WDC05A.Steig.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC13STWD02A",
+          "dataSetName": "IC13STWD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC13STWD02A2",
+          "dataSetName": "IC13STWD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC13STWD01A",
+          "dataSetName": "IC13STWD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ant_031",
+          "dataSetName": "Ant-WDC06A.Steig.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 21,
+      "records": [
+        {
+          "tsid": "Arc_032",
+          "dataSetName": "Arc-Agassiz.Vinther.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC08VI7701A",
+          "dataSetName": "IC08VI77",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC08VI7901A",
+          "dataSetName": "IC08VI79",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC08VI8401A",
+          "dataSetName": "IC08VI84",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC08VI8701A",
+          "dataSetName": "IC08VI87",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC09KA7901A",
+          "dataSetName": "IC09KA79",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC09VIA800A",
+          "dataSetName": "IC09VIA8",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC95FI8701A",
+          "dataSetName": "IC95FI87",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 22,
+      "records": [
+        {
+          "tsid": "Arc_089",
+          "dataSetName": "Arc-AkademiiNaukIceCap.Opel.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC09OPAN01C",
+          "dataSetName": "IC09OPAN",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC13OPAN01A",
+          "dataSetName": "IC13OPAN",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 23,
+      "records": [
+        {
+          "tsid": "Arc_018",
+          "dataSetName": "Arc-Austfonna.Isaksson.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC05ISAU01A",
+          "dataSetName": "IC05ISAU",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 24,
+      "records": [
+        {
+          "tsid": "Arc_005",
+          "dataSetName": "Arc-CampCentury.Fisher.1969",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC09VICC01A",
+          "dataSetName": "IC09VICC",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 25,
+      "records": [
+        {
+          "tsid": "Arc_033",
+          "dataSetName": "Arc-Crete.Vinther.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VICR01A",
+          "dataSetName": "IC10VICR",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VICR01B",
+          "dataSetName": "IC10VICR",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 26,
+      "records": [
+        {
+          "tsid": "Arc_043",
+          "dataSetName": "Arc-DevonIceCap.Fisher.1983",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC76FIDE01A",
+          "dataSetName": "IC76FIDE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC76FIDE02A",
+          "dataSetName": "IC76FIDE",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 27,
+      "records": [
+        {
+          "tsid": "Arc_034",
+          "dataSetName": "Arc-Dye.Vinther.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC06VID301A",
+          "dataSetName": "IC06VID3",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC09KAD301A",
+          "dataSetName": "IC09KAD3",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VID302A",
+          "dataSetName": "IC10VID3",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIP100B",
+          "dataSetName": "IC10VIP1",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIP100A",
+          "dataSetName": "IC10VIP1",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIP200B",
+          "dataSetName": "IC10VIP2",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIP200A",
+          "dataSetName": "IC10VIP2",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIP300B",
+          "dataSetName": "IC10VIP3",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIP300A",
+          "dataSetName": "IC10VIP3",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 28,
+      "records": [
+        {
+          "tsid": "Arc_035",
+          "dataSetName": "Arc-GRIP.Vinther.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIGR01A",
+          "dataSetName": "IC10VIGR",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 29,
+      "records": [
+        {
+          "tsid": "Arc_031",
+          "dataSetName": "Arc-NGRIP1.Vinther.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC06VING01A",
+          "dataSetName": "IC06VING",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC09KANG01A",
+          "dataSetName": "IC09KANG",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 30,
+      "records": [
+        {
+          "tsid": "Arc_026",
+          "dataSetName": "Arc-NGTB16.Schwager.1998",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00SC1601A",
+          "dataSetName": "IC00SC16",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 31,
+      "records": [
+        {
+          "tsid": "Arc_027",
+          "dataSetName": "Arc-NGTB18.Schwager.1998",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00SC1801A",
+          "dataSetName": "IC00SC18",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 32,
+      "records": [
+        {
+          "tsid": "Arc_028",
+          "dataSetName": "Arc-NGTB21.Schwager.1998",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00SC2101A",
+          "dataSetName": "IC00SC21",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 33,
+      "records": [
+        {
+          "tsid": "Arc_044",
+          "dataSetName": "Arc-PennyIceCapP96.Fisher.1998",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC98FIPE01A",
+          "dataSetName": "IC98FIPE",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 34,
+      "records": [
+        {
+          "tsid": "Arc_151",
+          "dataSetName": "Arc-PrinceOfWales.Kinnard.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC11KIPW01A",
+          "dataSetName": "IC11KIPW",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 35,
+      "records": [
+        {
+          "tsid": "Arc_056",
+          "dataSetName": "Arc-Renland.Vinther.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC08VIRE01A",
+          "dataSetName": "IC08VIRE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC09VIRE01A",
+          "dataSetName": "IC09VIRE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIRE01B",
+          "dataSetName": "IC10VIRE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC10VIRE01A",
+          "dataSetName": "IC10VIRE",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 36,
+      "records": [
+        {
+          "tsid": "Arc_053",
+          "dataSetName": "Arc-StoreggaSlide.Sejrup.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "MS11SENS01",
+          "dataSetName": "MS11SENS",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 37,
+      "records": [
+        {
+          "tsid": "Asia_236",
+          "dataSetName": "Asi-Dasuopu.Thompson.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00THDS03B",
+          "dataSetName": "IC00THDS",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC00THDS03A",
+          "dataSetName": "IC00THDS",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 38,
+      "records": [
+        {
+          "tsid": "Asia_247",
+          "dataSetName": "Asi-Guliya.Thompson.1997",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC97THGL01A",
+          "dataSetName": "IC97THGL",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 39,
+      "records": [
+        {
+          "tsid": "Asia_305",
+          "dataSetName": "Asi-Puruogangri.Thompson.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC06THPR01A",
+          "dataSetName": "IC06THPR",
+          "decision": "remove"
+        },
+        {
+          "tsid": "IC06THPR02A",
+          "dataSetName": "IC06THPR",
+          "decision": "keep"
+        },
+        {
+          "tsid": "IC06THPR02B",
+          "dataSetName": "IC06THPR",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 40,
+      "records": [
+        {
+          "tsid": "S2LR7FM5LvHegu",
+          "dataSetName": "Botuvercave.Bernal.2016",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP05CRBR01A",
+          "dataSetName": "SP05CRBR",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP07WABR01A",
+          "dataSetName": "SP07WABR",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LR668a1OMzKc",
+          "dataSetName": "Botuvercave.Bernal.2016",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 41,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_001_iso2k",
+          "dataSetName": "CO00COKY",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_001",
+          "dataSetName": "Ocn-Malindi.Cole.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_012",
+          "dataSetName": "Ocn-Malindi.Nakamura.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_012_iso2k",
+          "dataSetName": "CO09NAKY",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 42,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_019_iso2k",
+          "dataSetName": "CO00FERA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_019",
+          "dataSetName": "Ocn-RedSea.Felis.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_018",
+          "dataSetName": "Ocn-SinaiPeninsula,RedSea.Moustafa.2000",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 43,
+      "records": [
+        {
+          "tsid": "CO00KUNI01Aa",
+          "dataSetName": "CO00KUNI",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_008",
+          "dataSetName": "Ocn-Ningaloo.Kuhnert.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO00KUNI01Ab",
+          "dataSetName": "CO00KUNI",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 44,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_177_iso2k",
+          "dataSetName": "CO00URMA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_177",
+          "dataSetName": "Ocn-Maiana.Urban.2000",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 45,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_140_iso2k",
+          "dataSetName": "CO01TUNG",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_140",
+          "dataSetName": "Ocn-MadangLagoonPapuaNewGuinea.Kuhnert.2001",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_172",
+          "dataSetName": "Ocn-MadangLagoonPapuaNewGuinea.Tudhope.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_141_iso2k",
+          "dataSetName": "CO01TUNG",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_172_iso2k",
+          "dataSetName": "CO95TUNG",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 46,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_102_iso2k",
+          "dataSetName": "CO02KUBE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_102",
+          "dataSetName": "Ocn-NorthEastBreakers_Bermuda.Kuhnert.2002",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 47,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_006_iso2k",
+          "dataSetName": "CO03CHBA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_006",
+          "dataSetName": "Ocn-Lombok.Charles.2003",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 48,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_171_iso2k",
+          "dataSetName": "CO03CHBU",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_171",
+          "dataSetName": "Ocn-BunakenIsland.Charles.2003",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 49,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_139_iso2k",
+          "dataSetName": "CO03COPM",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_139",
+          "dataSetName": "Ocn-Palmyra.Cobb.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM02A",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM03A",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM04C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM05C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM06C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM07C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM11C",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM08B",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM09B",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM10B",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO03COPM01A",
+          "dataSetName": "CO03COPM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_160_iso2k",
+          "dataSetName": "CO11NUPM",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 50,
+      "records": [
+        {
+          "tsid": "CO04BAFI01A",
+          "dataSetName": "CO04BAFI",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_157",
+          "dataSetName": "Ocn-SavusavuBay1F.Linsley.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_156",
+          "dataSetName": "Ocn-SavusavuBayAB.Linsley.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_142",
+          "dataSetName": "Ocn-SavusavuBayFiji.Bagnato.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO04BAFI02A",
+          "dataSetName": "CO04BAFI",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO04BAFI00A",
+          "dataSetName": "CO04BAFI",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_157_iso2k",
+          "dataSetName": "CO04LIFI",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_142_iso2k",
+          "dataSetName": "CO05BAFI",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_156_iso2k",
+          "dataSetName": "CO06LIFI",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 51,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_174_iso2k",
+          "dataSetName": "CO04KIVA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_174",
+          "dataSetName": "Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 52,
+      "records": [
+        {
+          "tsid": "CO04LIRA01A",
+          "dataSetName": "CO04LIRA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_147",
+          "dataSetName": "Ocn-Rarotonga_d18O2R.Linsley.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_150",
+          "dataSetName": "Ocn-Rarotonga_d18O3R.Linsley.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_152",
+          "dataSetName": "Ocn-Rarotonga_d18O99.Linsley.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO04LIRA02A",
+          "dataSetName": "CO04LIRA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "CO04LIRA03A",
+          "dataSetName": "CO04LIRA",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 53,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_013_iso2k",
+          "dataSetName": "CO04PFRE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_013",
+          "dataSetName": "Ocn-Reunion.Pfeiffer.2004",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 54,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_020_iso2k",
+          "dataSetName": "CO04ZIMG",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_021",
+          "dataSetName": "Ocn-Ifaty1.Zinke.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_020",
+          "dataSetName": "Ocn-Ifaty4.Zinke.2004",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 55,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_166_iso2k",
+          "dataSetName": "CO05ASGU",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_166",
+          "dataSetName": "Ocn-DoubleReef.Asami.2005",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 56,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_105_iso2k",
+          "dataSetName": "CO05KUBE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_105",
+          "dataSetName": "Ocn-NorthEastBreakers_Bermuda.Kuhnert.2005",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 57,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_007_iso2k",
+          "dataSetName": "CO06DATZ",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_007",
+          "dataSetName": "Ocn-Mafia.Damassa.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 58,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_107_iso2k",
+          "dataSetName": "CO06MOPE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_107",
+          "dataSetName": "Ocn-PedradeLume-CapeVerdeIslands.Moses.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 59,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_108_iso2k",
+          "dataSetName": "CO06MOTO",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_108",
+          "dataSetName": "Ocn-BuccooReefTobagoMontastrea.Moses.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_110",
+          "dataSetName": "Ocn-BuccooReefTobagoSidereastrea.Moses.2006",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_110_iso2k",
+          "dataSetName": "CO06MOTO",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 60,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_144_iso2k",
+          "dataSetName": "CO06QUNG",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_144",
+          "dataSetName": "Ocn-Rabaul.Quinn.2006",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 61,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_193_iso2k",
+          "dataSetName": "CO07CAFR",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_193",
+          "dataSetName": "Ocn-CoralSea.Calvo.2007",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 62,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_010_iso2k",
+          "dataSetName": "CO08ABSU",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_010",
+          "dataSetName": "Ocn-MentawaiIslands.Abram.2008",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 63,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_094_iso2k",
+          "dataSetName": "CO08GOBE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_094",
+          "dataSetName": "Ocn-BermudaSouthShore.Goodkin.2008",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 64,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_096_iso2k",
+          "dataSetName": "CO08HEVE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_096",
+          "dataSetName": "Ocn-LosRoques.Hetzinger.2008",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 65,
+      "records": [
+        {
+          "tsid": "CO08KIPR01A",
+          "dataSetName": "CO08KIPR",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_099",
+          "dataSetName": "Ocn-TurrumoteReefPuertoRico.Kilbourne.2008",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 66,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_163_iso2k",
+          "dataSetName": "CO09FEOG",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_163",
+          "dataSetName": "Ocn-Miyanohama.Felis.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 67,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_097_iso2k",
+          "dataSetName": "CO10HEIG",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_097",
+          "dataSetName": "Ocn-Guadeloupe.Steinhilber.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 68,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_154_iso2k",
+          "dataSetName": "CO12GOVA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_154",
+          "dataSetName": "Ocn-Vanuatu.Gorman.2012",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 69,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_181_iso2k",
+          "dataSetName": "CO14OSPA",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_183",
+          "dataSetName": "Ocn-PalauUlongChannel.Osborne.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_183_iso2k",
+          "dataSetName": "CO14OSPA",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 70,
+      "records": [
+        {
+          "tsid": "CO14WUCL01A",
+          "dataSetName": "CO14WUCL",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_188",
+          "dataSetName": "Ocn-Clipperton1b.Wu.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_169",
+          "dataSetName": "Ocn-ClippertonAtoll.Linsley.2000",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99LICL01A",
+          "dataSetName": "CO99LICL",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99LICL02A",
+          "dataSetName": "CO99LICL",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99LICL03A",
+          "dataSetName": "CO99LICL",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 71,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_026_iso2k",
+          "dataSetName": "CO14ZIHO",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_023",
+          "dataSetName": "Ocn-HoutmanAbrolhos.Kuhnert.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_026",
+          "dataSetName": "Ocn-HoutmanAbrolhosHAB10A.Zinke.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99KUHO01Aa",
+          "dataSetName": "CO99KUHO",
+          "decision": "remove"
+        },
+        {
+          "tsid": "CO99KUHO01Ab",
+          "dataSetName": "CO99KUHO",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 72,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_021_iso2k",
+          "dataSetName": "CO14ZIMG",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_022",
+          "dataSetName": "Ocn-IfatyTul3.Zinke.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_022_iso2k",
+          "dataSetName": "CO14ZIMG",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 73,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_173_iso2k",
+          "dataSetName": "CO94DUUR",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_173",
+          "dataSetName": "Ocn-UrvinaBay.Dunbar.1994",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 74,
+      "records": [
+        {
+          "tsid": "CO94HEAQ02A",
+          "dataSetName": "CO94HEAQ",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_014",
+          "dataSetName": "Ocn-AqabaJordanAQ18.Heiss.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_016",
+          "dataSetName": "Ocn-AqabaJordanAQ19.Heiss.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO94HEAQ01A",
+          "dataSetName": "CO94HEAQ",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 75,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_138_iso2k",
+          "dataSetName": "CO94LISE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_138",
+          "dataSetName": "Ocn-SecasIslandPanama.Linsley.1994",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 76,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_133_iso2k",
+          "dataSetName": "CO96QUVA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_133",
+          "dataSetName": "Ocn-Vanuatu.Quinn.1996",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 77,
+      "records": [
+        {
+          "tsid": "CO96SWBB01A",
+          "dataSetName": "CO96SWBB",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_118",
+          "dataSetName": "Ocn-BiscayneBay.Swart.1996",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 78,
+      "records": [
+        {
+          "tsid": "CO96SWFB01A",
+          "dataSetName": "CO96SWFB",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_116",
+          "dataSetName": "Ocn-FloridaBay.Swart.1996",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 79,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_132_iso2k",
+          "dataSetName": "CO98BOFP",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_132",
+          "dataSetName": "Ocn-Moorea.Boiseau.1998",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 80,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_135_iso2k",
+          "dataSetName": "CO98EVXM",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_135",
+          "dataSetName": "Ocn-Kiritimati.Evans.1998",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 81,
+      "records": [
+        {
+          "tsid": "CO99DRGB01A",
+          "dataSetName": "CO99DRGB",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_167",
+          "dataSetName": "Ocn-AbrahamReef.Druffel.1999",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 82,
+      "records": [
+        {
+          "tsid": "CO99GUMI01A",
+          "dataSetName": "CO99GUMI",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_179",
+          "dataSetName": "Ocn-Nauru.Guilderson.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "CO99GUMI01B",
+          "dataSetName": "CO99GUMI",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 83,
+      "records": [
+        {
+          "tsid": "S2LRXCjbJRsfv3",
+          "dataSetName": "CuevadelDiablo.Bernal.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP11BEMX01A",
+          "dataSetName": "SP11BEMX",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 84,
+      "records": [
+        {
+          "tsid": "S2LRKAWCp7YCxG",
+          "dataSetName": "CuevadelTigrePerdido.vanBreukelen.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP08VBPE01A",
+          "dataSetName": "SP08VBPE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP08VBPE02A",
+          "dataSetName": "SP08VBPE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP08VBPE03A",
+          "dataSetName": "SP08VBPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13CHPE01A",
+          "dataSetName": "SP13CHPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP14APPE01A",
+          "dataSetName": "SP14APPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP14APPE02A",
+          "dataSetName": "SP14APPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRMGQmfxP6z3",
+          "dataSetName": "CuevadelTigrePerdido.vanBreukelen.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRmBVO3ZS9RQ",
+          "dataSetName": "CuevadelTigrePerdido.vanBreukelen.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRLfv6iCnPNE",
+          "dataSetName": "ElCondorcave.Cheng.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRcMafCoSS3V",
+          "dataSetName": "ElCondorcave.Cheng.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LReUx5jbNbgq",
+          "dataSetName": "ElCondorcave.Cheng.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 85,
+      "records": [
+        {
+          "tsid": "S2LRNNRQiP9T5J",
+          "dataSetName": "Dantecave.Sletten.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13SLNA01A",
+          "dataSetName": "SP13SLNA",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRxITjJTYMCl",
+          "dataSetName": "Dantecave.Sletten.2013",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 86,
+      "records": [
+        {
+          "tsid": "S2LRbPwlTL981A",
+          "dataSetName": "Donggecave.Yuan.2004",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP04YUCN02A",
+          "dataSetName": "SP04YUCN",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP06DYCN01A",
+          "dataSetName": "SP06DYCN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LRRAIihHA4uf",
+          "dataSetName": "Donggecave.Yuan.2004",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP04YUCN03A",
+          "dataSetName": "SP04YUCN",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 87,
+      "records": [
+        {
+          "tsid": "Eur_009",
+          "dataSetName": "Eur-RAPiD-17-5P.Moffa-Sanchez.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "MS14MORR01a",
+          "dataSetName": "MS14MORR",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 88,
+      "records": [
+        {
+          "tsid": "Eur_001",
+          "dataSetName": "Eur-SpannagelCave.Mangini.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP05MAAT01A",
+          "dataSetName": "SP05MAAT",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP12FOAT01A",
+          "dataSetName": "SP12FOAT",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LRsiwBinOC1B",
+          "dataSetName": "Spannagelcave.Fohlmeister.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 89,
+      "records": [
+        {
+          "tsid": "S2LR984dImqQzT",
+          "dataSetName": "Heshangcave.C..2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP08HUCN01A",
+          "dataSetName": "SP08HUCN",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 90,
+      "records": [
+        {
+          "tsid": "S2LR6REtKecQef",
+          "dataSetName": "Huagapocave.Kanner.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LS00SEJU01",
+          "dataSetName": "LS00SEJU",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13KAPE01A",
+          "dataSetName": "SP13KAPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13KAPE02A",
+          "dataSetName": "SP13KAPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRI939L9cdEk",
+          "dataSetName": "Huagapocave.Kanner.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRBXVhP2hFuP",
+          "dataSetName": "Huagapocave.Kanner.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 91,
+      "records": [
+        {
+          "tsid": "SAm_035_iso2k",
+          "dataSetName": "IC13THQU",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SAm_035",
+          "dataSetName": "SAm-QuelccayaIceCap.Thompson.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 92,
+      "records": [
+        {
+          "tsid": "S2LRBdOpwxurXe",
+          "dataSetName": "Jiuxiancave.Cai.2010",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP10CACN01A",
+          "dataSetName": "SP10CACN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP10CACN02A",
+          "dataSetName": "SP10CACN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LR8slbkjtNM0",
+          "dataSetName": "Jiuxiancave.Cai.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRCb8IVUAAAd",
+          "dataSetName": "Jiuxiancave.Cai.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 93,
+      "records": [
+        {
+          "tsid": "S2LR47iXnLO0TG",
+          "dataSetName": "Korallgrottancave.Sundqvist.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP10SUSE01A",
+          "dataSetName": "SP10SUSE",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 94,
+      "records": [
+        {
+          "tsid": "S2LRgwWVs7MIO3",
+          "dataSetName": "LiangLuar.Griffiths.2016",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP09GRID02A",
+          "dataSetName": "SP09GRID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP09GRID01A",
+          "dataSetName": "SP09GRID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID01_compo",
+          "dataSetName": "SP13AYID",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP13AYID01A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID02A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID03A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID04A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD7d948e2e",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID05A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 95,
+      "records": [
+        {
+          "tsid": "NAm_3870",
+          "dataSetName": "NAm-OregonCaves.Ersek.2012",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LRzhGg35X7Yw",
+          "dataSetName": "Oregoncavesnationalmonument.Ersek.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP12ERUS01A",
+          "dataSetName": "SP12ERUS",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 96,
+      "records": [
+        {
+          "tsid": "Ocean2kHR_126",
+          "dataSetName": "Ocn-MontegoBayJamaica.Haase-Schramm.2003",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Ocean2kHR_126_iso2k",
+          "dataSetName": "SS03HAJA",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Ocean2kHR_128_iso2k",
+          "dataSetName": "SS03HAJA",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 97,
+      "records": [
+        {
+          "tsid": "S2LRZakzwznzEB",
+          "dataSetName": "PinkPanthercave.Asmerom.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP07ASUS01A",
+          "dataSetName": "SP07ASUS",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 98,
+      "records": [
+        {
+          "tsid": "S2LRPRzDX3Apju",
+          "dataSetName": "Qunfcave.Fleitmann.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP07FLOM01A",
+          "dataSetName": "SP07FLOM",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 99,
+      "records": [
+        {
+          "tsid": "S2LRvmcMc9Rkdw",
+          "dataSetName": "Sanbaocave.Dong.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP10DOCN01A",
+          "dataSetName": "SP10DOCN",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 100,
+      "records": [
+        {
+          "tsid": "SP12CACN01A",
+          "dataSetName": "SP12CACN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LRvmcMc9Rkdw-dup",
+          "dataSetName": "Tianmen.Cai.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    }
+  ]
+}
